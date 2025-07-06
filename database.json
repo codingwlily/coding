@@ -1,0 +1,74 @@
+[
+    {
+        "timestamp": "2025-07-06 17:26:47",
+        "ip_api_response": {
+            "status": "success",
+            "country": "Slovenia",
+            "countryCode": "SI",
+            "region": "061",
+            "regionName": "Ljubljana",
+            "city": "Ljubljana",
+            "zip": "1000",
+            "lat": 46.0503,
+            "lon": 14.5046,
+            "timezone": "Europe/Ljubljana",
+            "isp": "T-2, d.o.o",
+            "org": "T-2 d.o.o",
+            "as": "AS34779 T-2, d.o.o.",
+            "query": "188.159.253.226"
+        },
+        "sun_api_response": {
+            "results": {
+                "sunrise": "3:16:40 AM",
+                "sunset": "6:56:58 PM",
+                "solar_noon": "11:06:49 AM",
+                "day_length": "15:40:18",
+                "civil_twilight_begin": "2:40:35 AM",
+                "civil_twilight_end": "7:33:03 PM",
+                "nautical_twilight_begin": "1:50:00 AM",
+                "nautical_twilight_end": "8:23:38 PM",
+                "astronomical_twilight_begin": "12:42:04 AM",
+                "astronomical_twilight_end": "9:31:34 PM"
+            },
+            "status": "OK",
+            "tzid": "UTC"
+        },
+        "user_choice": "sunrise"
+    },
+    {
+        "timestamp": "2025-07-06 17:27:28",
+        "ip_api_response": {
+            "status": "success",
+            "country": "Slovenia",
+            "countryCode": "SI",
+            "region": "061",
+            "regionName": "Ljubljana",
+            "city": "Ljubljana",
+            "zip": "1000",
+            "lat": 46.0503,
+            "lon": 14.5046,
+            "timezone": "Europe/Ljubljana",
+            "isp": "T-2, d.o.o",
+            "org": "T-2 d.o.o",
+            "as": "AS34779 T-2, d.o.o.",
+            "query": "188.159.253.226"
+        },
+        "sun_api_response": {
+            "results": {
+                "sunrise": "3:16:40 AM",
+                "sunset": "6:56:58 PM",
+                "solar_noon": "11:06:49 AM",
+                "day_length": "15:40:18",
+                "civil_twilight_begin": "2:40:35 AM",
+                "civil_twilight_end": "7:33:03 PM",
+                "nautical_twilight_begin": "1:50:00 AM",
+                "nautical_twilight_end": "8:23:38 PM",
+                "astronomical_twilight_begin": "12:42:04 AM",
+                "astronomical_twilight_end": "9:31:34 PM"
+            },
+            "status": "OK",
+            "tzid": "UTC"
+        },
+        "user_choice": "sunset"
+    }
+]
